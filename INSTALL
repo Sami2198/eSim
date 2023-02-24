@@ -17,6 +17,9 @@ Table of contents
    		       $ unzip eSim-2.3.zip
 
    	ii.     Now change directories in to the top-level eSim directory (where this INSTALL file can be found).
+     
+                $ cd Downloads/
+                $ cd eSim-2.3
 
    	iii.    To install eSim and other dependencies, run the following command :
 
